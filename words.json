@@ -1,0 +1,26 @@
+[
+  {
+    "word": "Reluctant",
+    "hindi": ["अनिच्छुक", "मना करने वाला", "तैयार न होना"],
+    "english": ["Not willing", "Unwilling", "Hesitant"],
+    "pronunciation": "/ri-luk-tuhnt/",
+    "sentences": [
+      {"en": "She was reluctant to speak.", "hi": "वह बोलने के लिए अनिच्छुक थी।"},
+      {"en": "He gave a reluctant smile.", "hi": "उसने अनिच्छा से मुस्कुराया।"},
+      {"en": "They were reluctant to accept the offer.", "hi": "वे प्रस्ताव स्वीकार करने में हिचकिचा रहे थे।"}
+    ],
+    "tip": "Re + luck + tent – Tent mein rehna pasand nahi"
+  },
+  {
+    "word": "Generous",
+    "hindi": ["उदार", "दयालु", "बड़ा दिल वाला"],
+    "english": ["Kind", "Giving", "Helpful"],
+    "pronunciation": "/jen-er-uhs/",
+    "sentences": [
+      {"en": "He is a generous person.", "hi": "वह एक उदार व्यक्ति है।"},
+      {"en": "She made a generous donation.", "hi": "उसने उदार दान किया।"},
+      {"en": "Generous people help others.", "hi": "उदार लोग दूसरों की मदद करते हैं।"}
+    ],
+    "tip": "Gene (जीन) + Russ – दिलदार इंसान"
+  }
+]
