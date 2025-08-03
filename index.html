@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daily English Vocabulary</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🔤 Daily English Vocabulary</h1>
+
+    <div id="word-section">
+      <h2 id="word">Loading...</h2>
+      <p><strong>📖 Hindi Meanings:</strong> <span id="hindi-meanings"></span></p>
+      <p><strong>📘 English Meanings:</strong> <span id="english-meanings"></span></p>
+      <p><strong>🗣️ Pronunciation:</strong> <span id="pronunciation"></span></p>
+
+      <div id="sentences">
+        <strong>✍️ Example Sentences:</strong>
+        <ul id="sentence-list"></ul>
+      </div>
+
+      <p><strong>🧠 Tip to Remember:</strong> <span id="tip"></span></p>
+
+      <div class="buttons">
+        <button onclick="prevWord()">⬅️ Previous</button>
+        <button onclick="nextWord()">➡️ Next</button>
+        <a href="https://play.google.com/store/apps/details?id=com.yourapp.dailyvocab" target="_blank">📥 Download App</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
